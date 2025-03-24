@@ -1,3 +1,3 @@
 # the_gospels
 
-the good news
+the good news of Matthew
